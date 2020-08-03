@@ -36,6 +36,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [CTM Central Development](https://www.youtube.com/watch?v=jxodJqjGWJc)
+- [Reviewing Good and Bad Plugin Submissions for Poggit](https://www.youtube.com/watch?v=-GiTzxAmFF4)
+- [I’m making a server!](https://www.youtube.com/watch?v=_Vhy2uwfAsg)
+- [MyPlot Merging Development](https://www.youtube.com/watch?v=dz_VPGCHhtM)
+- [Quarantine Stream](https://www.youtube.com/watch?v=ab7gaxAOscc)
 <!-- YOUTUBE:END -->
 
 ---
