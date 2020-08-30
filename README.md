@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason - aka [jasonwynn10][website] 👋
 
-## I'm a Student Developer, Office Worker, and Teacher!
+## I'm a Student, Office Worker, and Web Developer!
 - 🔭 I’m currently working on a [Minecraft Bedrock CTM Server][ctmcentral]!
 - 🌱 I’m learning everything I can all the time 👍
 - 👯 I’m looking to collaborate with other web developers
