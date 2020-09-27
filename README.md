@@ -36,11 +36,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MyPlot but it's API 4](https://www.youtube.com/watch?v=yCs2ZnwaFhI)
 - [Reviewing Good and Bad Plugin Submissions for Poggit (2)](https://www.youtube.com/watch?v=O4tnD_6ScPo)
 - [CTM Central Development](https://www.youtube.com/watch?v=jxodJqjGWJc)
 - [Reviewing Good and Bad Plugin Submissions for Poggit](https://www.youtube.com/watch?v=-GiTzxAmFF4)
 - [I’m making a server!](https://www.youtube.com/watch?v=_Vhy2uwfAsg)
-- [MyPlot Merging Development](https://www.youtube.com/watch?v=dz_VPGCHhtM)
 <!-- YOUTUBE:END -->
 
 ---
