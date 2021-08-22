@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Minecraft Bedrock CTM Server][ctmcentral]!
 - 🌱 I’m learning everything I can all the time 👍
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2020 Goals: Contribute to more open-source projects
+- 🥅 2021 Goals: Contribute to more open-source projects
 - ⚡ Fun fact: I love to eat all types of unique/lesser-known foods!
 
 ### Connect with me:
