@@ -37,8 +37,8 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Setting up MyPlot with PhpStan](https://www.youtube.com/watch?v=nohq8FYJ7qE)
-- [MyPlot but it's API 4](https://www.youtube.com/watch?v=yCs2ZnwaFhI)
-- [Reviewing Good and Bad Plugin Submissions for Poggit (2)](https://www.youtube.com/watch?v=O4tnD_6ScPo)
+- [MyPlot but it&#39;s API 4](https://www.youtube.com/watch?v=yCs2ZnwaFhI)
+- [Reviewing Good and Bad Plugin Submissions for Poggit &lpar;2&rpar;](https://www.youtube.com/watch?v=O4tnD_6ScPo)
 - [CTM Central Development](https://www.youtube.com/watch?v=jxodJqjGWJc)
 - [Reviewing Good and Bad Plugin Submissions for Poggit](https://www.youtube.com/watch?v=-GiTzxAmFF4)
 <!-- YOUTUBE:END -->
