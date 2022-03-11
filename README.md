@@ -1,4 +1,4 @@
-### Hi there, I'm Jason - aka [jasonwynn10][website] 👋
+### Hi there, I'm Jason - aka [jasonwynn10](https://jasonwynn10.com) 👋
 
 ## I'm a Student, Office Worker, and Web Developer!
 - 🔭 I’m currently working on a [Minecraft Bedrock CTM Server][ctmcentral]!
