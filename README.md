@@ -9,11 +9,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jasonwynn10.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasonwynn10 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jasonwynn10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jasonwynn10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jasonwynn10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jasonwynn10.com" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" />][website-light]
+[<img align="left" alt="jasonwynn10.com" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" />][website-dark]
+[<img align="left" alt="jasonwynn10 | YouTube" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-light.svg" />][youtube-light]
+[<img align="left" alt="jasonwynn10 | YouTube" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg" />][youtube-dark]
+[<img align="left" alt="jasonwynn10 | Twitter" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-light.svg" />][twitter-light]
+[<img align="left" alt="jasonwynn10 | Twitter" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" />][twitter-dark]
+[<img align="left" alt="jasonwynn10 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-light.svg" />][linkedin-light]
+[<img align="left" alt="jasonwynn10 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" />][linkedin-dark]
+[<img align="left" alt="jasonwynn10 | Instagram" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg" />][instagram-light]
+[<img align="left" alt="jasonwynn10 | Instagram" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" />][instagram-dark]
 
 <br />
 
@@ -47,9 +52,14 @@
 
 <img align="left" alt="jasonwynn10's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonwynn10&show_icons=true&hide_border=true" />
 
-[website]: https://jasonwynn10.com
-[twitter]: https://twitter.com/jasonwynn10
-[youtube]: https://www.youtube.com/channel/UCl_WphG9GGEwBKPQcdSPwTA
-[instagram]: https://instagram.com/jasonwynn10
-[linkedin]: https://linkedin.com/in/jasonwynn10
+[website-light]: https://jasonwynn10.com#gh-light-mode-only
+[website-dark]: https://jasonwynn10.com#gh-dark-mode-only
+[twitter-light]: https://twitter.com/jasonwynn10#gh-light-mode-only
+[twitter-dark]: https://twitter.com/jasonwynn10#gh-dark-mode-only
+[youtube-light]: https://www.youtube.com/channel/UCl_WphG9GGEwBKPQcdSPwTA#gh-light-mode-only
+[youtube-dark]: https://www.youtube.com/channel/UCl_WphG9GGEwBKPQcdSPwTA#gh-dark-mode-only
+[instagram-light]: https://instagram.com/jasonwynn10#gh-light-mode-only
+[instagram-dark]: https://instagram.com/jasonwynn10#gh-dark-mode-only
+[linkedin-light]: https://linkedin.com/in/jasonwynn10#gh-light-mode-only
+[linkedin-dark]: https://linkedin.com/in/jasonwynn10#gh-dark-mode-only
 [ctmcentral]: https://ctmcentral.net
