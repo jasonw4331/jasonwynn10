@@ -1,10 +1,10 @@
 ### Hi there, I'm Jason - aka [jasonwynn10](https://jasonwynn10.com) 👋
 
-## I'm a Student, Office Worker, and Web Developer!
-- 🔭 I’m currently working on a [Minecraft Bedrock CTM Server][ctmcentral]!
+## I'm a Student, Software Developer and WIP Chef!
+- 🔭 I’m currently working on a software distribution website!
 - 🌱 I’m learning everything I can all the time 👍
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2021 Goals: Contribute to more open-source projects
+- 🥅 2022 Goals: Complete a fully functional web stack
 - ⚡ Fun fact: I love to eat all types of unique/lesser-known foods!
 
 ### Connect with me:
