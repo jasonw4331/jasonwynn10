@@ -1,11 +1,11 @@
 ### Hi there, I'm Jason - aka [jasonwynn10](https://jasonwynn10.com) 👋
 
-## I'm a Student, Software Developer and WIP Chef!
+## I'm a Student, Software Developer and Home Chef!
 - 🔭 I’m currently working on a software distribution website!
 - 🌱 I’m learning everything I can all the time 👍
 - 👯 I’m looking to collaborate with other web developers
-- 🥅 2022 Goals: Complete a fully functional web stack
-- ⚡ Fun fact: I love to eat all types of unique/lesser-known foods!
+- 🥅 2023 Goals: Create an audio mixer with Rust and WinAPI
+- ⚡ Fun fact: I love to try eating unique or lesser-known foods
 
 ### Connect with me:
 
@@ -39,17 +39,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Setting up MyPlot with PhpStan](https://www.youtube.com/watch?v=nohq8FYJ7qE)
-- [MyPlot but it&#39;s API 4](https://www.youtube.com/watch?v=yCs2ZnwaFhI)
-- [Reviewing Good and Bad Plugin Submissions for Poggit &lpar;2&rpar;](https://www.youtube.com/watch?v=O4tnD_6ScPo)
-- [CTM Central Development](https://www.youtube.com/watch?v=jxodJqjGWJc)
-- [Reviewing Good and Bad Plugin Submissions for Poggit](https://www.youtube.com/watch?v=-GiTzxAmFF4)
-<!-- YOUTUBE:END -->
-
----
-
 <img align="left" alt="jasonwynn10's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonwynn10&show_icons=true&hide_border=true" />
 
 [website-light]: https://jasonwynn10.com#gh-light-mode-only
@@ -62,4 +51,3 @@
 [instagram-dark]: https://instagram.com/jasonwynn10#gh-dark-mode-only
 [linkedin-light]: https://linkedin.com/in/jasonwynn10#gh-light-mode-only
 [linkedin-dark]: https://linkedin.com/in/jasonwynn10#gh-dark-mode-only
-[ctmcentral]: https://ctmcentral.net
